@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fencingminds.com]]></title>
+        <description><![CDATA[fencingminds.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 15:36:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cff38692-0b90-4a35-8cfe-3791cb161557.png">]]></description>
+            <link>undefinedfb5fd360-736a-4e63-881e-c4b569cdbdbe/index.html</link>
+            <guid isPermaLink="false">fb5fd360-736a-4e63-881e-c4b569cdbdbe</guid>
+            <pubDate>Sun, 17 Apr 2016 15:36:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
