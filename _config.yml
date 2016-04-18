@@ -1,17 +1,7 @@
-layout_spectrum: 0.7518797
 name: fencingminds.com
+favicon: null
+layout_spectrum: 0.7518797
 typography_spectrum: 0.4793831
-color:
-  brandStrength: 0.3706844
-  saturation: 0.2683586
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  lightness: 0.5443565
-  rhythmicContrast: 0.2272682
 collections:
   - index:
       navigable: true
@@ -24,3 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3706844
+  lightness: 0.5443565
+  saturation: 0.2683586
+  rhythmicContrast: 0.2272682
+purpose: []
